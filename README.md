@@ -114,8 +114,8 @@ pip install -r requirements.txt
 or open the Jupyter Notebook
 
 ---
+# Author
+Shruti Khadtar
+
 # License
 This project is for academic and learning purposes.
-
-# Auther
-Shruti Khadtar
